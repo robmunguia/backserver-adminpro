@@ -1,0 +1,1 @@
+module.exports.KEY = '@admin-pro-seed-@hard-core';
