@@ -37,7 +37,6 @@ mongoose.connection.openUri('mongodb://localhost:27017/HospitalDB', (err, res) =
 
 
 // Rutas
-// Middleware ??
 app.use('/login', loginRoutes);
 app.use('/hospitales', hospitalRoutes);
 app.use('/medico', medicoRoutes);
